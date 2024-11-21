@@ -1,0 +1,7 @@
+sequences = list(range(1, 10) )
+
+for sequence in sequences :
+    if sequence in list(range (1,10,2) )  :
+        print(f"{sequence}st")
+    else :
+        print(f"{sequence}nd")
