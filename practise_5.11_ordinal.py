@@ -1,5 +1,3 @@
-'''python
-
 
 sequences = list(range(1, 10) )
 
@@ -12,5 +10,4 @@ for sequence in sequences :
         print(f"{sequence}rd")
     elif sequence != 1 and sequence != 2 and sequence != 3 and sequence in list(range (1,10 ) )  :
         print(f"{sequence}th")
-
-'''   
+ 
