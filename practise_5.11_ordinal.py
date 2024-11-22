@@ -1,6 +1,4 @@
-
 sequences = list(range(1, 10) )
-
 for sequence in sequences :
     if sequence == 1 :
         print(f"{sequence}st")
